@@ -3,3 +3,5 @@ for item in items:
     if i%2==0:
         print i,
 
+for idx,i in enumerate(items)
+	print idx,'=>',i
